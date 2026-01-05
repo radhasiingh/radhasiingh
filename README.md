@@ -1,25 +1,24 @@
-### Hi, I’m Radha!
+## Hi, I’m Radha!
 I turn messy data into **clear insights, dashboards, and decision-ready stories**. 
 
-### Experience  
+## Experience  
 *Junior Associate – Founder’s Office | EZ*
 Worked with the senior management on cross-functional projects, supported global clients, and managed programs.
 
-### What I’m Good At  
+## What I’m Good At  
 - Data Analysis & Exploration  
 - Dashboarding & Reporting  
 - Business Insights & Storytelling  
 - Executive-ready Presentations  
-
-### 🛠️ Tools & Technologies  
-
+  
 ## 🛠️ Tools & Technologies
 
 <p align="left">
   <!-- Excel -->
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40" />
   <!-- Power BI -->
-  <img src="https://img.icons8.com/color/48/microsoft-power-bi.png" width="40" />
+  <img src="https://img.icons8.com/color/48/000000/microsoft-power-bi.png" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" />
   <!-- MySQL -->
   <img src="https://img.icons8.com/color/48/mysql-logo.png" width="40" />
   <!-- PostgreSQL -->
