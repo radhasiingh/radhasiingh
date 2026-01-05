@@ -21,5 +21,5 @@ Worked with the senior management on cross-functional projects, supported global
   <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" width="40" />
 </p>
 
-**Excel • Power BI • SQL • MySQL • PostgreSQL • PowerPoint**
+**Excel • Power BI • SQL • MySQL • PostgreSQL • PowerPoint**\
 👉 Check pinned repositories below ⬇️
